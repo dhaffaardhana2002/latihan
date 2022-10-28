@@ -1,6 +1,9 @@
 # Tugas PBO Pertemuan 4
 
-Perkenalkan saya Dhaffa dari prodi Teknik Informatika
+Nama: Muhammad Dhaffa Ardhana Rianto Putra
+NIM: 312110029
+Kelas: TI.21.C.2
+
 Disini saya akan menunjukkan tutorial mengeksekusi Java untuk membuat objek Person diantaranya Anton dan Riko
 
 ## Buat file dan kode Java
@@ -83,6 +86,8 @@ Nama saya Riko Raulramos
 Saya Laki-laki
 Umur saya 22
 ```
+
+![Screenshot Hasil]{/cmd javac PersonPBO.png}
 
 ___
 Terima kasih untuk membaca tutorial saya. Tak lupa juga untuk dosen saya dan teman-teman saya yang sudah membantu saya.
